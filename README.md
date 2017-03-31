@@ -8,4 +8,4 @@ Screenshots:
 
 gameplay
 
-<img 
+<img scr="https://github.com/jplaceres0868/DesertShooter/blob/master/gameplay." height="200px">
